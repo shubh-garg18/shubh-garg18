@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me
+🔭 Backend @ Autocash.ai | Building low-latency systems(Matching Engine)   
+🧠 Focus: scalability, concurrency, latency-based data structures   
+🌱 Learning: C++ internals, real-time architectures  
+💬 CP | Backend | Databases  
+⚡ Rebuild systems from first principles  
 
-<!--
-**shubh-garg18/shubh-garg18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect
+[LinkedIn](https://linkedin.com/in/shubh--garg) • [Email](mailto:shubh18garg82@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech
+**Languages:** C++, Typescript, Python   
+**Backend:** FastAPI, REST APIs, Matching Engine   
+**Databases:** PostgreSQL / MySQL, Redis   
+**Tools:** Docker, Git, CI/CD
+
+**Focus Areas:** Low-latency systems, concurrency, system-design
