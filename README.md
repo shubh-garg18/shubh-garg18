@@ -12,15 +12,14 @@
 
 ## 🛠️ Projects
 
-- **[TradeForge](https://github.com/shubh-garg18/TradeForge)** — C++ order matching engine · ~2.1M orders/sec @ p99 2.3µs
-- **[CacheMeIfYouCan](https://github.com/shubh-garg18/redis-cpp)** — Redis-compatible in-memory store in C++ · RESP over raw TCP
-- **[DotSlash](https://github.com/shubh-garg18/DotSlash)** — Real-time collaborative code editor · React + Socket.io
-- **[RoadCents](https://github.com/shubh-garg18/roadcents)** — Django API solving the gas-station problem · exact DP oracle
+- **[TradeForge](https://github.com/shubh-garg18/TradeForge)**: C++ limit order book with price-time priority matching · IOC, FOK and stop orders
+- **[CacheMeIfYouCan](https://github.com/shubh-garg18/redis-cpp)**: Redis-compatible in-memory store in C++ · RESP over raw TCP
+- **[Offline Store Analytics](https://github.com/shubh-garg18/offline-store-analytics)**: Footfall, dwell and queue metrics from CCTV and POS bills · YOLO11 + ByteTrack
+- **[Credit Card Default](https://github.com/shubh-garg18/CreditCardAnalysis)**: Default prediction on 30K card accounts · HistGradientBoosting, ROC-AUC 0.78
 
 ## 💻 Tech
 
-- **Languages:** C++, TypeScript, Python, SQL
-- **Backend:** FastAPI, Django, REST, WebSockets
-- **Systems:** Multithreading, TCP sockets, event-driven architecture
-- **Data & Tools:** PostgreSQL, Redis, MongoDB, Docker, Linux, CMake
-- **Focus Areas:** Low-latency systems, concurrency, system design
+- **Languages:** C++, Python, SQL
+- **Systems:** Multithreading, TCP sockets, Redis protocol, replication
+- **ML & Data:** Pandas, scikit-learn, SHAP, YOLO11, ByteTrack
+- **Backend:** FastAPI, Django, PostgreSQL, Redis, Docker, Linux
